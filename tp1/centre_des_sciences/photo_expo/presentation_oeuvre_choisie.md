@@ -9,4 +9,4 @@ Conçu, fabriqué et assemblé à Montréal, le robot vedette de Mecademic, nomm
 
 <h3>Description du dispositif</h3>
 Le Meca500 est un robot dont seuls les mouvements de base sont programmés. Pour qu’il réalise des tâches comme danser, il faut que l’ordre vienne de l’extérieur, généralement d’un type particulier d’ordinateur, appelé automate programmable. En gros, Mecademic fournit le robot, puis le client s’occupe de son intégration.
-<img src="../medias/images/oeuvre.jpg" width="100%">
+<img src="../medias/images/affiche_presentative.jpg" width="100%">
