@@ -18,3 +18,10 @@ Mais contrairement aux autres robots, le Meca500 est léger (4,5 kg), compact (o
 
 Installés à chaque articulation du robot, des réducteurs de vitesse ultra petits permettent de faire pivoter ses articulations 100 fois moins vite que la rotation de ses moteurs. « Il y a 15 ans ça n’existait pas des réducteurs de vitesse si petits et si précis. C’est grâce entre autres à ces réducteurs qu’on a pu créer quelque chose de très compact et très précis », affirme Ilian Bonev. Alors que les autres robots industriels utilisent un gros contrôleur comme un ordinateur pour faire les calculs, le Meca500 utilise un tout petit contrôleur installé dans sa base. « Non seulement le robot est petit, mais tout le système est très compact », continue celui-ci.
 <img src="../medias/images/Meca500.jpg" width="100%">
+
+<h2>Appréciation du dispositif</h2>
+Malgré avoir prit du temps à comprendre son fonctionnement, j'ai beaucoup apprécier cette oeuvre. Au début je ne comprenais pas l'utilité du dispositif mais après un peu de recherche j'ai compris comment intéragir avec le dispositif.
+
+Ce que j'ai beaucoup apprécier c'est la réactivité du dispositif et les différents mouvements et actions qu'il pouvait faire.
+
+par contre je crois que les fabriquants auraient pus lui créer une sorte de body pour couvrir le mécanisme et le rendre plus conviviale.
